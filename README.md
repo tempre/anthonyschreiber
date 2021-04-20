@@ -1,7 +1,8 @@
-# Welcome, my name is Anthony Schreiber!
+<h3 align="center">Welcome, my name is <b>Anthony Schreiber!</b></h3>
 
 ### Education
-[ B.S in Computer Science @ Northern Michigan University ]
-[ Minor in Mathmatics @ Norhtern Michigan University ]
+// B.S in Computer Science & Minor in Mathematics @ Northern Michigan University //
+
+
 
 
