@@ -8,8 +8,6 @@
 <img src="https://github.com/tempre/tempre/blob/main/kirby.gif" atl="kirby!">
 </p>
 
-<p align="center"><a href="https://github.com/tempre/tempre/blob/main/AnthonySchreiber%20Resume%20LATEST.pdf">Resume</a></p>
-
 
 
 
