@@ -1,4 +1,4 @@
-<h4 align="center"> Software Engineer @ LiveItt </h4>
+<h4 align="center"> Software Engineer @ Northern Michigan University </h4>
 
 <p align="center">
   B.S in Computer Science & Minor in Mathematics @ <b>Northern Michigan University</b> 
